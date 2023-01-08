@@ -1,0 +1,28 @@
+.transaction_history{
+    text-align: center;
+    margin: 20px auto;
+    width: 450px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    border-spacing: 0;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.table_head{
+    font-size: 18px;
+    background-color: gray;
+    font-weight: 500;
+}
+
+.table_rov {
+    font-size: 18px;
+}
+
+.table_value {
+    border: 1px solid #3f3f3f;
+    text-transform: capitalize;
+}
+
+.table_bady{
+     border: 1px solid #3f3f3f;
+}
